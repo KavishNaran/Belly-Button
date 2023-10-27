@@ -13,7 +13,7 @@ The interactive dashboard features the following:
 - Drop down menu
 - Bar chart
 - Bubble chart
-- Guage chart
+- Gauge chart
 
 ![Alt text](image.png)
 
